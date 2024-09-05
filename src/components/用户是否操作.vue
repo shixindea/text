@@ -1,7 +1,5 @@
 <template>
-  <div class='HelloWorld-container'>
-  
-  </div>
+  <div class='HelloWorld-container'></div>
 </template>
  
 <script setup lang="ts">
